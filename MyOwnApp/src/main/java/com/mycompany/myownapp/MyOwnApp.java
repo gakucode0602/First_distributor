@@ -15,7 +15,7 @@ public class MyOwnApp {
         System.out.println("Hello World! 2");
         int a = 3;
         int b = 4;
-        if(a > 0)
+        if(a > 0 && b > 0)
             System.out.printf("Ket qua = %d\n",a + b);
     }
 }
