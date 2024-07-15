@@ -13,5 +13,8 @@ public class MyOwnApp {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hello World! 2");
+        int a = 3;
+        int b = 4;
+        System.out.println(a + b);
     }
 }
